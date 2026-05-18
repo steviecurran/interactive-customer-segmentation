@@ -67,7 +67,7 @@ PCA compresses the feature space while preserving most of the dataset variance.
 
 Clusters are projected into lower-dimensional PCA space for interpretability and exploratory analysis.
 
-###Technologies Used
+### Technologies Used
 
 Python Libraries
 - pandas
@@ -78,7 +78,7 @@ Python Libraries
 - scipy
 - ipywidgets
 
-###Example Outputs
+### Example Outputs
 
 The notebook includes:
 - dendrogram visualisations
@@ -88,7 +88,7 @@ The notebook includes:
 - PCA cluster projections
 - labelled segmentation outputs
 
-###Business Interpretation
+### Business Interpretation
 
 The segmentation pipeline identifies statistically distinct customer groups with meaningful behavioural and demographic characteristics.
 
