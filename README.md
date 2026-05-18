@@ -120,6 +120,8 @@ Launch Jupyter Notebook:
 
     jupyter notebook
 
+![](https://raw.githubusercontent.com/steviecurran/interactive-customer-segmentation/refs/heads/main/variance.png)
+
 ### Notes
 
 This project prioritises:
