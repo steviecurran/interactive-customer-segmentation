@@ -48,8 +48,6 @@ Unlike standard clustering examples, this workflow emphasises:
 - Adjustable visualisation axes
 - Real-time recomputation of segmentation outputs
 
-![](https://raw.githubusercontent.com/steviecurran/interactive-customer-segmentation/refs/heads/main/dendo.png)
-
 ### Example Workflow
 **1. Explore Dataset Structure**
 
