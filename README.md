@@ -25,6 +25,8 @@ Unlike standard clustering examples, this workflow emphasises:
 - cluster interpretation
 - dynamic parameter selection
 - reusable analytical tooling
+
+![](https://raw.githubusercontent.com/steviecurran/interactive-customer-segmentation/refs/heads/main/dendo.png)
   
 ### Key Features
 **Hierarchical Clustering**
