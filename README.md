@@ -46,6 +46,8 @@ Unlike standard clustering examples, this workflow emphasises:
 - Adjustable visualisation axes
 - Real-time recomputation of segmentation outputs
 
+  ![](https://raw.githubusercontent.com/steviecurran/interactive-customer-segmentation/refs/heads/main/variance.png)
+
 ### Example Workflow
 **1. Explore Dataset Structure**
 
@@ -66,6 +68,8 @@ PCA compresses the feature space while preserving most of the dataset variance.
 **5. Visualise Cluster Separation**
 
 Clusters are projected into lower-dimensional PCA space for interpretability and exploratory analysis.
+
+![](https://raw.githubusercontent.com/steviecurran/interactive-customer-segmentation/refs/heads/main/segmentation_2.png)
 
 ### Technologies Used
 
