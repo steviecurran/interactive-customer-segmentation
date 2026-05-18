@@ -116,7 +116,7 @@ Launch Jupyter Notebook:
 
     jupyter notebook
 
-###Notes
+### Notes
 
 This project prioritises:
 
